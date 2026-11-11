@@ -1,0 +1,15 @@
+{
+  "name": "tactiq",
+  "displayName": "Tactiq",
+  "version": "1.0.0",
+  "description": "Search your Tactiq meetings and read their summaries, action items, transcripts and AI artifacts from Cursor. Sign in with your Tactiq account.",
+  "author": {
+    "name": "Tactiq",
+    "email": "hello@tactiq.io"
+  },
+  "homepage": "https://tactiq.io/help/mcp",
+  "repository": "https://github.com/Tactiq-HQ/cursor-plugin",
+  "license": "MIT",
+  "keywords": ["tactiq", "meetings", "transcripts", "meeting-notes", "action-items", "mcp"],
+  "logo": "assets/logo.svg"
+}
